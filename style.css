@@ -89,6 +89,13 @@ h2{
     border: 0;
 }
 
+.featured-box{
+    width: 94%;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .join-now-button{
     background-color: rgb(223, 57, 90);
     color: white;
@@ -98,5 +105,43 @@ h2{
 
 .see-more-arrow{
     padding-left: 10px;
+}
+
+footer{
+    background-color:black;
+    width: 100%;    
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+
+.footer-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;    
+}
+
+h3{
+    text-transform: capitalize;
+}
+
+.footer-box p{
+    font-size: 10px;
+}
+.footer-ul{    
+list-style: none;
+display: flex;
+align-items: center;
+margin: 20px;
+}
+
+.footer-ul li{ 
+    margin: 10px;    
+}
+
+.footer-ul li a{
+    text-decoration: none;
 }
 
