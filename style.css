@@ -39,13 +39,12 @@ p{
     background-color: rgb(223, 57, 90);
     color: white;
     padding: 5px 25px;
-    border-radius: 15px;
+    border-radius: 12px;
     border: 0;
-
 }
 
 .arrow{
-    padding-left: 20px;
+    padding-left: 10px;
 }
 .image-content{
     padding-left: 200px;
@@ -88,3 +87,15 @@ h2{
     color: rgb(236, 40, 40);    
     border: 0;
 }
+
+.join-now-button{
+    background-color: rgb(223, 57, 90);
+    color: white;
+    padding: 5px 15px;
+    border: 0;
+}
+
+.see-more-arrow{
+    padding-left: 10px;
+}
+
