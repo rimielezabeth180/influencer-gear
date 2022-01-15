@@ -20,3 +20,32 @@ body{
     text-decoration: none;
     color:black;
 }
+
+.first-section{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.text-content{
+    }
+
+p{
+
+}
+
+.prebook-now-button{
+    background-color: rgb(223, 57, 90);
+    color: white;
+    padding: 5px 25px;
+    border-radius: 15px;
+    border: 0;
+
+}
+
+.arrow{
+    padding-left: 10px;
+}
+.image-content{
+    padding-left: 200px;
+}
